@@ -1,0 +1,76 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		5A61757D1AA9399900A149A7 /* RandomNameGenerator.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = RandomNameGenerator.html; sourceTree = "<group>"; };
+		5A61757E1AA9399900A149A7 /* Testing.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = Testing.html; sourceTree = "<group>"; };
+		5A61757F1AA9399900A149A7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		5A6175761AA9398F00A149A7 = {
+			isa = PBXGroup;
+			children = (
+				5A61757D1AA9399900A149A7 /* RandomNameGenerator.html */,
+				5A61757E1AA9399900A149A7 /* Testing.html */,
+				5A61757F1AA9399900A149A7 /* README.md */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		5A6175771AA9398F00A149A7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+			};
+			buildConfigurationList = 5A61757A1AA9398F00A149A7 /* Build configuration list for PBXProject "Random_Meme_Generator" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5A6175761AA9398F00A149A7;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		5A61757B1AA9398F00A149A7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		5A61757C1AA9398F00A149A7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5A61757A1AA9398F00A149A7 /* Build configuration list for PBXProject "Random_Meme_Generator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5A61757B1AA9398F00A149A7 /* Debug */,
+				5A61757C1AA9398F00A149A7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5A6175771AA9398F00A149A7 /* Project object */;
+}
